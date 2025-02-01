@@ -1,4 +1,4 @@
-                                                                       <h1> HMIS-SQL-Analysis </h1>
+<center><h1> HMIS-SQL-Analysis </h1></center>
 <h1>Project Overview</h1>
 
 This project focuses on analyzing data from a Hospital Management Information System (HMIS) using SQL. It includes SQL queries to extract, process, and analyze key information related to patient management, resource utilization, and hospital performance.
